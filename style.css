@@ -37,6 +37,7 @@ p{
     line-height: 2.5rem;
     font-weight: 300;
     letter-spacing: 0.05rem;
+    text-align: justify;
 }
 
 .section-title{
@@ -388,6 +389,11 @@ p{
     margin: 0 auto;
 }
 
+.service-top p{
+    font-size: 16px;
+    font-weight: 400;
+}
+
 #services .service-bottom{
     display: flex;
     justify-content: center;
@@ -509,6 +515,7 @@ p{
 
 #projects .project-info p{
     color: white;
+    text-align: justify;
 }
 
 #projects .project-img{
